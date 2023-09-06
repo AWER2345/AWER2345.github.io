@@ -50,8 +50,8 @@
   ],
   "volunteer": [
     {
-      "organization": "Computer Science Student Society",
-      "position": "VP Social",
+      "organization": "VP Social",
+      "position": "Computer Science Student Society",
       "summary": "Planned, organized, and executed a highly successful Gala event, managing a budget of over 33k+ dollars and coordinating logistics for a gathering of 150+ attendees. Led multiple other events, resulting in a 500% increase in total event offerings, driving greater social engagement.", 
       "startDate": "2022-05",
       "endDate": "2023-05"
@@ -97,7 +97,7 @@
     },
     {
       "language": "French",
-      "fluency": "Fluent"
+      "fluency": "Advance"
     }
   ],
   "interests": [],
