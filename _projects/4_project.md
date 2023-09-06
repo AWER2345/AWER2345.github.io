@@ -7,7 +7,7 @@ importance: 3
 category: 
 ---
 
-• Worked with a team to design and build a visulation of execution data in the USA from 1950 to 2022.
+• Worked with a team to design and build a visulation of execution data in the USA from 1977 to 2023.
 
 • Used d3.js to display and render graphs. 
 
