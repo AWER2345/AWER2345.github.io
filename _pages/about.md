@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Aidan Perras, a Computer Science student currently pursuing my education at the University of British Columbia (UBC). My academic journey has been enriched by hands-on experiences at companies like Tableau, Amazon, and DocuSign, where I've had the privilege to apply and expand my knowledge in practical settings.
+I'm Aidan Perras, a Computer Science student currently pursuing my education at the University of British Columbia (UBC). I've had the chance to work at some amazing companies like Tableau, Amazon, and DocuSign, where I've had the privilege to apply and expand my knowledge in practical settings.
 
 Within the realm of computer science, I have a special interest in network programming. Exploring the intricacies of how systems communicate and connect in the digital world has always intrigued me. 
 
