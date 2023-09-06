@@ -20,36 +20,32 @@
   },
   "work": [
     {
-      "name": "University of British Columbia",
-      "position": "Software Engineer",
-      "startDate": "2023-05-01",
-      "endDate": "2023-09-01",
+      "name": "Software Engineer",
+      "position": "University of British Columbia",
+      "startDate": "2023-05",
+      "endDate": "2023-09",
       "summary": "Developed a customized Drupal CMS integrated with React app as RESTful API, saving 15,000 dollars annually. Implemented modules in PHP for data retrieval, enhancing security and reducing API calls by 80% in the CMS. Enhanced front-end design based on conducted user study, boosting user understanding and engagement by 25%."
     },
     {
-      "name": "Tableau (Salesforce)",
-      "position": "Software Engineer Intern",
-      "startDate": "2022-01-01",
-      "endDate": "2022-01-01",
+      "name": "Software Engineer Intern",
+      "position": "Tableau (Salesforce)",
+      "startDate": "2022-01",
+      "endDate": "2022-01",
       "summary": "Developed features for a ML/AI model usability product integrated into Tableau’s data visualization platform by helping onboard new datatype. Created new Java API endpoints to enable the use of ML/AI predictive models in existing code base. Implemented front-end functionality using TypeScript, React, and Redux, allowing clients to effectively organize their models in the web client and application."
     },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ""
+      "name": "Software Engineer Intern",
+      "position": "Amazon Web Services (SNS)",
+      "startDate": "2021-08",
+      "endDate": "2021-12",
+      "summary": "Created a dashboard tool to streamline issue remediation for on-call engineers, reducing response times by 90%. Designed the tool with scalability in mind, incorporating support for authentication APIs and allowing future expansion to additional API endpoints using Python, Bash, and Java. Enabled customization of dashboards for other teams by establishing a deployment pipeline utilizing DynamoDB, AWS Lambda, AWS SAM, AWS DJS, and API Gateway."
     },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ""
+      "name": "Software Engineer Intern",
+      "position": "DocuSign",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "Built a .NET application to ingest security vulnerability data from the Nessus.sc API into Docusign’s internal database to allow engineers to query sensitive data for over a 1,000,000 data points across several teams. Designed ingestion software as a redundant, distributed system to ensure reliability in the event of failure through the use of locks over a fleet of 10 hosts in C#. Set up alerts to detect software failures and newly relevant security vulnerabilities which alerted the relevant engineers to the problems to prevent critical vulnerabilities from spreading."
     }
   ],
   "volunteer": [],
