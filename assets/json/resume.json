@@ -48,7 +48,15 @@
       "summary": "Built a .NET application to ingest security vulnerability data from the Nessus.sc API into Docusign’s internal database to allow engineers to query sensitive data for over a 1,000,000 data points across several teams. Designed ingestion software as a redundant, distributed system to ensure reliability in the event of failure through the use of locks over a fleet of 10 hosts in C#. Set up alerts to detect software failures and newly relevant security vulnerabilities which alerted the relevant engineers to the problems to prevent critical vulnerabilities from spreading."
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Computer Science Student Society",
+      "position": "VP Social",
+      "summary": "Planned, organized, and executed a highly successful Gala event, managing a budget of over 33k+ dollars and coordinating logistics for a gathering of 150+ attendees. Led multiple other events, resulting in a 500% increase in total event offerings, driving greater social engagement.", 
+      "startDate": "2022-05",
+      "endDate": "2023-05"
+    }
+  ],
   "education": [
     {
       "institution": "University of British Columbia",
