@@ -34,29 +34,30 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of British Columbia, Vancouver, BC",
+      "institution": "University of British Columbia",
       "area": "Computer Science",
-      "studyType": "Bsc",
+      "studyType": "Bachelor of Science",
       "startDate": "",
       "endDate": "2024",
       "score": "",
       "courses": [
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity",
-        "Theory of Relativity"
-
+        "CPSC 110 - Computation, Programs, and Programming",
+        "CPSC 121 - Models of Computation",
+        "CPSC 210 - Software Construction",
+        "CPSC 213 - Introduction to Computer Systems",
+        "CPSC 221 - Basic Algorithms and Data Structures",
+        "CPSC 304 - Introduction to Relational Databases",
+        "CPSC 310 - Introduction to Software Engineering",
+        "CPSC 313 - Computer Hardware and Operating Systems",
+        "CPSC 314 - Computer Graphics",
+        "CPSC 317 - Introduction to Computer Networking",
+        "CPSC 320 - Intermediate Algorithm Design and Analysis",
+        "CPSC 322 - Introduction to Artificial Intelligence",
+        "CPSC 410 - Advanced Software Engineering",
+        "CPSC 416 - Distributed Systems",
+        "CPSC 418 - Parallel Computation",
+        "CPSC 430 - Computers and Society",
+        "CPSC 447 - Introduction to Visualization"
       ]
     }
   ],
