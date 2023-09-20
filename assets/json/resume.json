@@ -24,35 +24,35 @@
       "position": "University of British Columbia",
       "startDate": "2023-05",
       "endDate": "2023-09",
-      "summary": "Developed a customized Drupal CMS integrated with React app as RESTful API, saving 15,000 dollars annually. Implemented modules in PHP for data retrieval, enhancing security and reducing API calls by 80% in the CMS. Enhanced front-end design based on conducted user study, boosting user understanding and engagement by 25%."
+      "summary": "Engineered a React app to archive over 1,000 Indigenous oral and written records, simplifying uploads and search. Spearheaded move to MongoDB backend, boosting speed by 30%, enabling scalability, and saving $15K yearly. Built a Node.js API for content management and community engagement, serving 100+ daily users."
     },
     {
       "name": "Software Engineer Intern",
       "position": "Tableau (Salesforce)",
       "startDate": "2022-01",
       "endDate": "2022-01",
-      "summary": "Developed features for a ML/AI model usability product integrated into Tableau’s data visualization platform by helping onboard new datatype. Created new Java API endpoints to enable the use of ML/AI predictive models in existing code base. Implemented front-end functionality using TypeScript, React, and Redux, allowing clients to effectively organize their models in the web client and application."
+      "summary": "Developed features for ML/AI model usability in Tableau, aiding in the on-boarding of a new datatype (predictive model) and boosting feature adoption by 5%. Created Java REST APIs for user and developer, elevating model integration by 10% in existing code base. Employed TypeScript, React, and Redux to oversee front-end development, catalyzing a 20% uptick in user organizational efficiency for 100+ clients."
     },
     {
       "name": "Software Engineer Intern",
       "position": "Amazon Web Services (SNS)",
       "startDate": "2021-08",
       "endDate": "2021-12",
-      "summary": "Created a dashboard tool to streamline issue remediation for on-call engineers, reducing response times by 90%. Designed the tool with scalability in mind, incorporating support for authentication APIs and allowing future expansion to additional API endpoints using Python, Bash, and Java. Enabled customization of dashboards for other teams by establishing a deployment pipeline utilizing DynamoDB, AWS Lambda, AWS SAM, AWS DJS, and API Gateway."
+      "summary": "Created a dashboard tool to streamline issue remediation for on-call engineers, reducing response times by 90%. Designed a modular tool with Python, Bash, and Java to streamline integration with multiple authentication APIs, estimated to save 20% in future development time. Pioneered a deployment pipeline using DynamoDB, AWS Lambda, AWS SAM, AWS DJS, and API Gateway, enabling easy dashboard customization and potential adoption across different engineering teams."
     },
     {
       "name": "Software Engineer Intern",
       "position": "DocuSign",
       "startDate": "2021-06",
       "endDate": "2021-08",
-      "summary": "Built a .NET application to ingest security vulnerability data from the Nessus.sc API into Docusign’s internal database to allow engineers to query sensitive data for over a 1,000,000 data points across several teams. Designed ingestion software as a redundant, distributed system to ensure reliability in the event of failure through the use of locks over a fleet of 10 hosts in C#. Set up alerts to detect software failures and newly relevant security vulnerabilities which alerted the relevant engineers to the problems to prevent critical vulnerabilities from spreading."
+      "summary": "Built a .NET application to ingest security vulnerability data from the Nessus.sc API into Docusign’s internal database to allow engineers to query sensitive data for over a 1,000,000 data points across several teams. Designed ingestion software as a redundant, distributed system to ensure reliability in the event of failure through the use of locks over a fleet of 10 hosts in C#. Established an alert system designed to instantly flag and notify engineers of potential security vulnerabilities, enhancing response readiness."
     }
   ],
   "volunteer": [
     {
       "organization": "VP Social",
       "position": "Computer Science Student Society",
-      "summary": "Planned, organized, and executed a highly successful Gala event, managing a budget of over 33k+ dollars and coordinating logistics for a gathering of 150+ attendees. Led multiple other events, resulting in a 500% increase in total event offerings, driving greater social engagement.", 
+      "summary": "Directed the planning and execution of a Gala event that sold out in hours, skillfully navigating complex logistics, managing a $33k+ budget, and accommodating 150+ attendees. Led a team to diversify the event lineup, shattering previous records with a fivefold increase in offerings.", 
       "startDate": "2022-05",
       "endDate": "2023-05"
     }
